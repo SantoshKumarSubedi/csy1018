@@ -1,26 +1,18 @@
 body{
-  background-color: green;
+padding:0%;
 }
 header{
   background-color: red;
   text-align: center;
+  padding:3%;
 }
 section{
   background-color: green;
   text-align: center;
-
+  padding:3%;
 }
 footer{
   background-color: yellow;
   text-align: center;
-}
-h1{
-  color: green;
-
-}
-h3{
-  color: yellow;
-}
-h3{
-  color: red;
+  padding:3%;
 }
