@@ -1,6 +1,26 @@
 body{
   background-color: green;
 }
+header{
+  background-color: red;
+  text-align: center;
+}
+section{
+  background-color: green;
+  text-align: center;
+
+}
+footer{
+  background-color: yellow;
+  text-align: center;
+}
 h1{
-  font-size: red;
+  color: green;
+
+}
+h3{
+  color: yellow;
+}
+h3{
+  color: red;
 }
